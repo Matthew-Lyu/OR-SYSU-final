@@ -1,4 +1,4 @@
-# Chapter4-目标规划GoalPrograming
+# Chapter-4目标规划GoalPrograming
 
 ## 目标规划问题的提出
 
