@@ -12,3 +12,5 @@
 [Chapter-6最大匹配问题&Hall's Thm.pdf](https://github.com/Matthew-Lyu/OR-SYSU-final/blob/main/Chapter-6最大匹配问题%26Hall's%20Thm.pdf)
 
 [Chapter-7匹配与网络流.pdf](https://github.com/Matthew-Lyu/OR-SYSU-final/blob/main/Chapter-7匹配与网络流.pdf)
+
+[Chapter-8最大流问题&最小割问题](https://github.com/Matthew-Lyu/OR-SYSU-final/blob/main/Chapter-8最大流问题%26最小割问题.pdf)
