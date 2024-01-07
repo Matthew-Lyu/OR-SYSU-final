@@ -1,7 +1,7 @@
 # OR-SYSU-final
 运筹学复习笔记
 
-
+[Chapter-1线性规划LinearPrograming](https://github.com/Matthew-Lyu/OR-SYSU-final/blob/main/Chapter-1线性规划LinearPrograming.pdf)
 
 [Chapter-2对偶理论DualityTheory](https://github.com/Matthew-Lyu/OR-SYSU-final/blob/main/Chapter-2对偶理论DualityTheory.pdf)
 
